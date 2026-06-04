@@ -1,4 +1,4 @@
-# NTE Super Sound Auto-Clear Macro
+# NTE Super Sound AFK Macro
 
 An AutoHotkey v2 (AHK v2) script designed to automate the **Super Sound** rhythm mode in *Neverness to Everness* (NTE). This macro was built from the ground up to quickly and efficiently burn City Stamina.
 
