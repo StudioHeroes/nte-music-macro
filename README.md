@@ -35,5 +35,15 @@ An AutoHotkey v2 (AHK v2) script designed to automate the **Super Sound** rhythm
 6. Press **[ESC]** to stop the script.
 7. Press F10 to SHOW/HIDE UI
 
+## 💡 Why I Built This
+
+Burning through 700 City Stamina manually isn't just tiring—the game actually punishes you for not being perfect. 
+
+* **The Accuracy Penalty:** You need 90%+ accuracy to maximize your stamina burn and Fons payout per session. Dropping combos means you get fewer rewards and have to do even more runs to clear your cap.
+* **The Realistic Grind:** Nobody actually sits down for 4 to 5 hours straight to do 70 perfect runs. Realistically, you do 5 to 7 sessions per sitting, or about 10 runs a day spread across a week.
+* **The Macro Solution (20 Mins/Day):** This script guarantees the high accuracy needed for maximum payouts every single time. 
+
+Using this macro is the absolute fastest strategy to clear your stamina. It turns your daily grind into a simple 20-minute routine. While you still need to manually restart the session every 2 minutes, the script handles 100% of the intense note-hitting, letting you relax, watch a video, or multitask while effortlessly maxing out your Fons.
+
 ## ⚠️ Disclaimer
 This script is provided for educational and accessibility purposes. Automating gameplay goes against the Terms of Service (ToS) for *Neverness to Everness*. While the randomized latency helps prevent automated detection, use this script at your own risk. I am not responsible for any account bans or penalties.
