@@ -10,7 +10,7 @@ An AutoHotkey v2 (AHK v2) script designed to automate the **Super Sound** rhythm
 
 ## 📺 Video Demonstration
 
-[![NTE Super Sound Macro Tutorial](https://img.youtube.com/vi/ZsU0imFkXks.jpg)](https://www.youtube.com/watch?v=ZsU0imFkXks)
+[![NTE Super Sound Macro Tutorial](<img width="640" height="480" alt="sddefault" src="https://github.com/user-attachments/assets/d2f30628-b261-40e8-865c-e7ce5b23e77f" />)](https://www.youtube.com/watch?v=ZsU0imFkXks)
 
 *Click the image above to watch the full installation and setup tutorial on YouTube!*
 
