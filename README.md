@@ -16,7 +16,7 @@ An AutoHotkey v2 (AHK v2) script designed to automate the **Super Sound** rhythm
 
 ## 🛠️ Prerequisites
 1. Download and install [AutoHotkey v2](https://www.autohotkey.com/).
-2. Set your game to **[Insert your resolution, e.g., 1920x1080 Borderless Windowed]**. *(Note: If your macro uses specific screen coordinates, make sure users know what resolution they need!)*
+2. Download Macro File 
 
 ## 🚀 Installation & Usage
 1. Download `[YourScriptName].ahk` from this repository.
