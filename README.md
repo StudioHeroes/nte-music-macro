@@ -21,7 +21,7 @@ An AutoHotkey v2 (AHK v2) script designed to automate the **Super Sound** rhythm
 ## 🚀 Installation & Usage
 1. Install [AutoHotkey v2](https://www.autohotkey.com/) and Download [Mayoiuta-NTE-Beats-Macro](Mayoiuta-NTE-Beats-Macro) from this repository.
 2. Right-click on the [Mayoiuta-NTE-Beats-Macro](Mayoiuta-NTE-Beats-Macro) and run it as administrator. You should see a green 'H' icon in your system tray.
-3. A [![UI](https://github.com/user-attachments/assets/5effb541-0784-4af1-b9e0-2770493f29da)} with Notes will show up
+3. A UI with Notes will show up [![UI](https://github.com/user-attachments/assets/5effb541-0784-4af1-b9e0-2770493f29da)} 
 
 3. Open *Neverness to Everness* and load into the Super Sound mode "Mayoiuta".
 4. Press **]** to start the macro.
