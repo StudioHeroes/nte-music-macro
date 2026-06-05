@@ -25,6 +25,7 @@ An AutoHotkey v2 (AHK v2) script designed to automate the **Super Sound** rhythm
 
 ![UI Screenshot](https://github.com/user-attachments/assets/5effb541-0784-4af1-b9e0-2770493f29da)
 
+
 4. Open *Neverness to Everness* and load into the Super Sound mode "Mayoiuta".
 5. Press **]** to start the macro.
 6. Press **[ESC]** to stop the script.
