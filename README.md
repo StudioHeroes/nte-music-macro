@@ -21,12 +21,14 @@ An AutoHotkey v2 (AHK v2) script designed to automate the **Super Sound** rhythm
 ## 🚀 Installation & Usage
 1. Install [AutoHotkey v2](https://www.autohotkey.com/) and Download [Mayoiuta-NTE-Beats-Macro](Mayoiuta-NTE-Beats-Macro) from this repository.
 2. Right-click on the [Mayoiuta-NTE-Beats-Macro](Mayoiuta-NTE-Beats-Macro) and run it as administrator. You should see a green 'H' icon in your system tray.
-3. A UI with Notes will show up [![UI](https://github.com/user-attachments/assets/5effb541-0784-4af1-b9e0-2770493f29da)} 
+3. A [UI](https://github.com/user-attachments/assets/5effb541-0784-4af1-b9e0-2770493f29da) with Notes will show up:
 
-3. Open *Neverness to Everness* and load into the Super Sound mode "Mayoiuta".
-4. Press **]** to start the macro.
-5. Press **[ESC]** to stop the script.
-6. Press F10 to SHOW/HIDE UI
+![UI Screenshot](https://github.com/user-attachments/assets/5effb541-0784-4af1-b9e0-2770493f29da)
+
+4. Open *Neverness to Everness* and load into the Super Sound mode "Mayoiuta".
+5. Press **]** to start the macro.
+6. Press **[ESC]** to stop the script.
+7. Press F10 to SHOW/HIDE UI
 
 ## ⚠️ Disclaimer
 This script is provided for educational and accessibility purposes. Automating gameplay goes against the Terms of Service (ToS) for *Neverness to Everness*. While the randomized latency helps prevent automated detection, use this script at your own risk. I am not responsible for any account bans or penalties.
